@@ -285,4 +285,3 @@ Interested in **Data Analytics, Business Intelligence, SQL, Power BI, Python, an
 
 **1,169+ Matches | 278K+ Deliveries | 18 IPL Seasons | 772 Players | 59 Venues**
 
-If you find this project useful, consider giving the repository a ⭐.
